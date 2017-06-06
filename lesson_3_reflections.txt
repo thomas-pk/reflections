@@ -31,3 +31,8 @@ would be harder?
 	It would be quite difficult to collaborate without Git or GitHub, having to communicate
 	changes through email or verbally.
 
+When would you want to make changes in a separate branch rather than directly in master?  
+What benefits does each approach have?
+
+	When you are not sure if the changes you make need to go back into the master.
+

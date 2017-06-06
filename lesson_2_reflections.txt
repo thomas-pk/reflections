@@ -12,3 +12,12 @@ What value do you think it offers?
 	as temporary files.  The staging area thus provides an intermediate location between
 	the respository and the working directory.
 	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can do this by adding all changes for this logical change to the staging area 
+	before performing the commit.
+	
+How do the diagrams help you visualize the branch structure
+
+	It does this by showing the different branches in relation to time.  From this you
+	can see if a branch has merged back in to the main branch or not.

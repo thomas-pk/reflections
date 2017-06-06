@@ -9,3 +9,25 @@ stay up-to-date with your remote repository?
 	1. You don't want remote changes to overwrite something that you are working on
 	2. You can work offline without the stupid PC constantly checking the remote repository
 
+Describe the deiffferences between forks, clones and branches. When would you use one instead
+of another?
+
+	A clone is when you want to make a copy of a remote repository onto your local machine
+	A branch is usually done locally when you want to create a new version of the main
+	software, leaving the master trunk / master living on its own while you make changes to
+	the version in your own branch.  Once you're done, you could then merge the changes back
+	into the master branch.
+	A fork is like a remote branch, where you branch from a remote repository onto your own
+	repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It allows one to work offline and perform merges or perform an informed change based
+	on the last known state of the remote repository.
+
+How would you collaborate without using Git or GitHub?  What would be easier, and what 
+would be harder?
+
+	It would be quite difficult to collaborate without Git or GitHub, having to communicate
+	changes through email or verbally.
+
